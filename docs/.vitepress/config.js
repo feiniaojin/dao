@@ -1,7 +1,7 @@
 export default {
   title: "大道之行",
   description: "读书笔记",
-  base: "/",
+  base: "/dao/",
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
